@@ -1,7 +1,6 @@
 #Author: Omar Darwish
 #Assignment Title: Program 27
 #Assignment Description: LAX DataSet
-#Due Date:  11/29/2023
 #Date Created: 11/27/2023
 
 import pandas as pd
